@@ -134,11 +134,11 @@ public class ServerFeignApplication {
 ---  
 
 欢迎关注我的公众号，跟我留言。   
-![](http://paz1myrij.bkt.clouddn.com/qrcode_for_gh_22df58e4959f_258.jpg)
-![](http://paz1myrij.bkt.clouddn.com/qrcode_for_gh_22df58e4959f_258.jpg)
+![](http://paz1myrij.bkt.clouddn.com/qrcode_for_gh_22df58e4959f_258.jpg)    
 博客地址：[https://blog.aprcode.com/Feign-Http/](https://blog.aprcode.com/Feign-Http/)   
 教程源码Github地址：[Feign-Http](https://github.com/lixhbs/Feign-Http)   
-教程源码Gitee地址：[Feign-Http](https://gitee.com/Lixhbs/SpringCloudEnglish/tree/master/sc-f-e-06)
+教程源码Gitee地址：[Feign-Http](https://gitee.com/Lixhbs/Feign-Http)
+
 
 
 
